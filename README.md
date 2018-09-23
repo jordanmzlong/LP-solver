@@ -10,4 +10,4 @@ We start with a basic feasible solution (BFS).
 At each iteration of the algorithm we check if the current BFS is optimal.
 If it is not optimal, we either move to a better BFS or say that the problem is unbounded.
 
-The differences lie in the details required in the above steps.
+The differences lie in the details of implementing the above steps.
